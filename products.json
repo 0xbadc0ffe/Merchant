@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Product 2",
+        "link": "https://www.amazon.it/dp/B07P64LFFH/ref=gw_it_desk_h1_aucc_ps_dbckpscs_qh_0520_v1?pf_rd_r=D62M4MY8PHFYWPXPRXWC&pf_rd_p=062be598-ad08-4ca2-a1b1-456f1f1449d1",
+        "cap": 70
+    },
+    {
+        "name": "ovododov",
+        "link": "https://www.amazon.it/nuovo-echo-4a-generazione-audio-di-alta-qualita-hub-per-casa-intelligente-e-alexa-bianco-ghiaccio/dp/B085FXGP5W/ref=p13n_ds_purchase_sim_1p_dp_desktop_6/259-6181880-4093264?_encoding=UTF8&pd_rd_i=B085FXGP5W&pd_rd_r=65615b2e-2fe8-4caa-a972-376666fab56e&pd_rd_w=3X08m&pd_rd_wg=JDLQm&pf_rd_p=982e80a0-3a5d-4da7-85d7-bccb8ef51d2c&pf_rd_r=NJTETBJPW79TTJ96D34W&psc=1&refRID=NJTETBJPW79TTJ96D34W",
+        "cap": 40.0
+    },
+    {
+        "name": "Product 1",
+        "link": "https://www.amazon.it/Bqeel-Raspberry-Accessori-Alimentatore-Interruttore/dp/B082PSBBMM/",
+        "cap": 100
+    }
+]
