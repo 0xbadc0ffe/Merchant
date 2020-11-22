@@ -5,17 +5,17 @@ Merchant is a bot that chekcs discounts on your favorite products
 
 ## Flags
 
-	1. Cleaning bash:
+Cleaning bash:
 	
-		$ python3 Merchant.py -clear
+	$ python3 Merchant.py -clear
 		
 	
-	2. Send emails if price < cap
+Send emails if price is fell under CAP €/$:
 	
 		$ python3 Merchant.py -email
 		
 		
-	3. Notify on smartphone: 
+Notify on smartphone if price is fell under CAP €/$: 
 		
 		$ python3 Merchant.py -notify
 
