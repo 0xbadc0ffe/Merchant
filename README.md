@@ -42,7 +42,7 @@ Notify on smartphone if price is fell under CAP:
 		
 		import time, datetime
 		
-	d. SMTP (emails) [read SMTP]
+	d. SMTP (emails) [Read Alert]
 		
 		import smtplib
 		
@@ -54,7 +54,7 @@ Notify on smartphone if price is fell under CAP:
 		
 		import json
 	
-	g. Telephone notifier [read Alert]
+	g. Telephone notifier [Read Alert]
 		
 		import notify
 		
