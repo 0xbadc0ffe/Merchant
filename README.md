@@ -32,27 +32,33 @@ Notify on smartphone if price is fell under CAP:
 
 	a. Web scraping module
 
-		import requests		
+		import requests	
+		
 		
 	b. Regex module
 	
 		import re	
 		
+		
 	c. Time modules
 		
 		import time, datetime
+		
 		
 	d. SMTP (emails) [Read Alert]
 		
 		import smtplib
 		
+		
 	e. System modules
 	   	
 		import sys, os, platform
+		
 	   
 	f. Manage Json files
 		
 		import json
+		
 	
 	g. Telephone notifier [Read Alert]
 		
