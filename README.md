@@ -10,12 +10,12 @@ Cleaning bash:
 	$ python3 Merchant.py -clear
 		
 	
-Send emails if price is fell under CAP €/$:
+Send emails if price is fell under CAP:
 	
 		$ python3 Merchant.py -email
 		
 		
-Notify on smartphone if price is fell under CAP €/$: 
+Notify on smartphone if price is fell under CAP: 
 		
 		$ python3 Merchant.py -notify
 
